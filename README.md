@@ -19,7 +19,11 @@ The calculator operates by capturing user input via the buttons and performing c
 
 # JavaScript Functions
 Arithmetic Operations: Functions like add(), subtract(), multiply(), divide().
+
 Trigonometry: sin(), cos(), tan() use the Math object for calculations.
+
 Logarithm: log() computes the base 10 logarithm.
+
 Exponential Function: xy() computes the power of a number.
+
 Special Characters: pie() inserts the value of π.
